@@ -1,0 +1,13 @@
+{
+  "name": "web-component-starter",
+  "version": "1.0.0",
+  "main": "main/main.js",
+  "author": "David B. Waters <mrdavidbwaters@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@davidbwaters/eslint-config": "^1.6.5"
+  },
+  "description": "Simple boilerplate for building web components",
+  "repository": "https://github.com/davidbwaters/web-component-starter.git",
+  "private": false
+}
